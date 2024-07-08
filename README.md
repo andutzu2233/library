@@ -1,5 +1,3 @@
-Here's the updated `README.md` file with the endpoints as shown in the photo:
-
 ```markdown
 # Library Management System
 
